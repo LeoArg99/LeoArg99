@@ -6,10 +6,10 @@ Me formé en **TripleTen Bootcamp**, donde desarrollé proyectos centrados en pr
 ---
 
 ### 🔬 Proyectos destacados
-- **Rusty Bargain** – Modelo predictivo para estimar el valor de vehículos usados.  
-  *Optimización del RECM y pipelines reproducibles con Scikit-learn y GridSearchCV.*  
-- **Predicción de pedidos de taxi** – Forecasting temporal con validación cruzada.  
-  *Modelado con Optuna y TimeSeriesSplit.*
+- **Interconnect** – Modelo predictivo para identificar la cancelación de clientes (churn) en una empresa de telecomunicaciones.
+*Construcción de pipelines, limpieza y combinación de datasets, codificación de variables y optimización de hiperparámetros con GridSearchCV y Optuna.*
+- **The Funky Films** – Clasificación de reseñas falsas mediante técnicas de procesamiento de lenguaje natural (NLP).
+*Entrenamiento de modelos supervisados con TF-IDF y Logistic Regression para detectar fraude y mejorar la calidad del sistema de reseña*
 
 ---
 
